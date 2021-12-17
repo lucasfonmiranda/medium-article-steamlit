@@ -15,6 +15,16 @@ This repository works as an example repository for my [article](https://blog.dev
 
 ![Active](https://img.shields.io/github/last-commit/lucasfonmiranda/medium-article-steamlit)
 
+## How to run this repo
+Simple form to run this repo
+
+```shell
+pip install -r requirements.txt
+```
+
+```shell
+streamlit run financialapp.py
+```
 
 ## Contributing DSWG Members
 
